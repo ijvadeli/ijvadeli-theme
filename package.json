@@ -1,0 +1,21 @@
+{
+  "name": "ijvadeli-theme",
+  "displayName": "IJvadeli Theme",
+  "description": "personal theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.116.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "IJvadeli Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/IJvadeli Theme-color-theme.json"
+      }
+    ]
+  }
+}

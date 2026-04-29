@@ -1,8 +1,10 @@
 {
   "name": "ijvadeli-theme",
   "displayName": "IJvadeli Theme",
-  "description": "personal theme",
+  "description": "My personal theme with blue/cyan colors",
   "version": "0.0.1",
+  "publisher": "IJvadeli2008",
+  "icon": "img/icon.png",
   "engines": {
     "vscode": "^1.116.0"
   },
